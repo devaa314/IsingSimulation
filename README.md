@@ -12,6 +12,8 @@ However, there are details which I will expand upon as I work on the repository.
 * A more formal justification of MFT via the Bogoliubv inequality instead of immediately replacing the the individuals spins with the average magnetic moment per unit volume
 * A more detailed explanation of detailed balance and why that leads us to the probabilities of accepting a transition in the Metropolis-Hastings algorithm
 
+Moreover, if you would like to visualise how states are able align at low temperatures, beating out thermal chaos, you can compare the mp4s in ./animations. You can see that thermal fluctuations overwhelm any tendency for spins to allign and no macroscopic regions of like spins form while the contrary occurs at low temperatures. Red indicates spin up and blue indicates spin down.
+
 ## Sources
 
 [^1]: Folk, R et al. (2024). "Ising's roots and transfer-matrix eigenvalues." 6-9.
