@@ -1,0 +1,2 @@
+# Solving the 1D Ising Model using the Transfer Matrix
+Although the focus of this repository is to simulate the 2D Ising model with the Metropolis-Hastings algorithm, it is a rather fun mathematical exercise to solve the 1D system exactly. We will use the same method used by Lars Onsager to exactly solve the 2D model, namely, by use of the transfer matrix.
